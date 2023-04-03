@@ -1,9 +1,5 @@
 ---
-description: Git Book Connection Test
+description: Git Book 연동 테스트
 ---
 
-# backend-survival
-
-Hello
-
-Hey
+안녕하세요 테스트입니다.
