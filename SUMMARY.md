@@ -1,8 +1,8 @@
 # Table of contents
 
-## GitBook
+## Megatera Backend 과정 목차
 
-* [Git Book 가이드](README.md)
+* [0주차 - 준비 및 세팅](README.md)
 
 * [GitHub과 연동하기](/integration/integration-with-github.md)
   * [PR 날리기](/integration/pull-request.md)
