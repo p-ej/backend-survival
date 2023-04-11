@@ -2,11 +2,10 @@
 
 ## Megatera Backend 과정
 
-* [소개 및 목차](README.md)
-* [0주차 - 준비 및 세팅](<README (1).md>)
-* [GitHub과 연동하기](integration/integration-with-github.md)
-  * [PR 날리기](megatera-backend/integration-with-github/pr.md)
+* [소개 및 목차](introduction.md)
+* [0. 준비 및 세팅](<weeks/week0/week0-main.md>)
+* [1. HTTP](weeks/week1/week1-main.md)
+  * [HTTP의 이해](weeks/week1/week1-edu1.md)
+  * [HTTP Client](weeks/week1/week1-edu2.md)
 
-## 효과적인 학습법
 
-* [미라클 모닝](undefined/undefined.md)
