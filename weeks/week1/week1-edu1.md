@@ -1,8 +1,6 @@
 # HTTP의 이해
 
 
-## 학습 키워드
-
 ### HTTP
 - **HTML 문서와 같은 리소스들을 가져올 수 있도록 해주는 프로토콜입니다.**라고 공식문서에는 적혀있다. 
 - 프론트 & 백 구분없이 서로 요청과 응답을 통해 데이터를 주고 받을 수 있으니 HTTP는 필수로 알아야 한다.
@@ -115,3 +113,18 @@ Stateless의 반대인 Stateful은 고객의 요청을 저장하는 반면, Stat
 - 200번대 : 서버에서 응답이 정상적으로 이루어졌다는 것을 알려준다.
 - 400번대 : 클라이언트의 요청이 잘못되었다는 것을 알린다.
 - 500번대 : 서버에러(보통 유저에게 보여주는 것을 지양하는 번대이다.)
+
+
+## 학습 키워드
+* HTTP(Hypertext Transfer Protocol)
+* HTTP와 HTTPS의 차이(TLS)
+* 클라이언트-서버 모델
+* stateless와 stateful
+* HTTP Cookie와 HTTP Session
+* HTTP 메시지 구조
+  * HTTP 요청(Reuqest)와 응답(Response)
+    * multipart/form-data
+  * HTTP 요청 메서드(HTTP request methods)
+    * 멱등성
+  * HTTP 응답 상태 코드(HTTP response status code)
+    * 리다이렉션
