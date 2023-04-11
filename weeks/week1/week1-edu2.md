@@ -49,9 +49,9 @@ TCP 통신 순서
 * Socket과 Socket API 구분
 * URI와 URL
 * 호스트(host)
-    * IP 주소
-    * Domain name
-    * DNS
+  * IP 주소
+  * Domain name
+  * DNS
 * 포트(port)
 * path(경로)
 * Java text blocks
