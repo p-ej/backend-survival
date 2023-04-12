@@ -54,7 +54,7 @@ httpServer.createContext("/users", (exchange) -> {
 
 [createContext](https://runebook.dev/ko/docs/openjdk/jdk.httpserver/com/sun/net/httpserver/httpserver).
 
-![ex_screenshot](./../../resources/images/javaHttpServer-createContext-image.png)
+![](./../../resources/images/javaHttpServer-createContext-image.png)
 
 
 #### Listen
