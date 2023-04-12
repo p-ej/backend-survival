@@ -18,8 +18,8 @@
 
 #### Listen
 - 서버는 요청을 받기만 하면 되는것이라 포트 번호만 정한다.
-> 포트 번호를 지정하고 ServerSockect 인스턴스를 생성한다.
-> Socket이랑은 별도의 독립적인 소켓 클래스이다.
+> - 포트 번호를 지정하고 ServerSockect 인스턴스를 생성한다.
+> - Socket이랑은 별도의 독립적인 소켓 클래스이다.
 ```java
 int port = 8080;
 ServerSocket listener = new ServerSocket(port, 0); // 기본 50
@@ -60,8 +60,8 @@ HTTP/1.1 200 OK
 Hello, world!
 ```
 
-> 헤더와 바디를 나누고 바디에는 HTML 형태로 전송하게끔 문자열을 담는다.
-> 또한 message에는 기본적인 헤더 정보를 담기 위해 Content-Type, charset, Content-Length을 추가한다.
+> - 헤더와 바디를 나누고 바디에는 HTML 형태로 전송하게끔 문자열을 담는다.
+> - 또한 message에는 기본적인 헤더 정보를 담기 위해 Content-Type, charset, Content-Length을 추가한다.
 ```java
 String body = """
   <!DOCTYPE html>
