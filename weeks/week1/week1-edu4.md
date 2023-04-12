@@ -46,11 +46,14 @@ httpServer.createContext("/users", (exchange) -> {
 });
 ```
 
-> 실행화면
+> - 실행화면
+
 ![ex_screenshot](./../../resources/images/javaHttpServer-image.png)
 
 > - createContext에 대한 설명
-> - [createContext](https://runebook.dev/ko/docs/openjdk/jdk.httpserver/com/sun/net/httpserver/httpserver).
+
+[createContext](https://runebook.dev/ko/docs/openjdk/jdk.httpserver/com/sun/net/httpserver/httpserver).
+
 ![ex_screenshot](./../../resources/images/javaHttpServer-createContext-image.png)
 
 
@@ -62,7 +65,7 @@ httpServer.start();
 
 #### Request
 - 서버는 각각의 경로로 들어온 요청들을 먼저 **읽고** 처리해준다.
-> handler를 사용하여 요청(Request) 파라미터를 가져올 수 있다.
+- handler를 사용하여 요청(Request) 파라미터를 가져올 수 있다.
 - handler는 HTTP를 교환을 처리한다고 하는데 **교환**이라는 의미가 좀 생소하다. 
 - createContext의 매개변수 2번째에는 HttpHandler 객체를 받을 수 있는데 이를 또 위와 같이 람다로 표현했다. 저 람다식의 exchange가 HttpHandler이다.
 
