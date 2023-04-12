@@ -48,13 +48,13 @@ httpServer.createContext("/users", (exchange) -> {
 
 > - 실행화면
 
-![ex_screenshot](./../../resources/images/javaHttpServer-image.png)
+![실행화면](./../../resources/images/javaHttpServer-image.png)
 
 > - createContext에 대한 설명
 
 [createContext](https://runebook.dev/ko/docs/openjdk/jdk.httpserver/com/sun/net/httpserver/httpserver).
 
-![](./../../resources/images/javaHttpServer-createContext-image.png)
+![캡처사진](./../../resources/images/javaHttpServer-createContext-image.png)
 
 
 #### Listen
@@ -127,3 +127,10 @@ responseBody.flush();
 - 확실히 소켓 클래스를 사용한거보다 쉽게 처리가 가능한거같다.
 - 소켓에서는 일일이 파싱해야하는 것들을 HttpServer 라이브러리의 메서드들을 이용하면 쉽게 가져올 수 있다.
   - 헤더라던지, 메소드라던지 ... 
+
+
+### 학습 키워드
+- Java HTTP Server
+- Java NIO
+- Java Lambda expression(람다식)
+  - Java Functional interface(함수형 인터페이스)
