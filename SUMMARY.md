@@ -7,5 +7,7 @@
 * [1. HTTP](weeks/week1/week1-main.md)
   * [HTTP의 이해](weeks/week1/week1-edu1.md)
   * [HTTP Client](weeks/week1/week1-edu2.md)
+  * [HTTP Server](weeks/week1/week1-edu2.md)
+  * [Java HTTP Server](weeks/week1/week1-edu2.md)
 
 
