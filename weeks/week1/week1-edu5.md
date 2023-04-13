@@ -64,7 +64,7 @@
 
 ### Controller 구현
 - 기본 패키지 루트 아래에다 컨트롤러 패키지를 추가한 후 WelcomeContoller 클래스 생성.
-[프로젝트 구조](./../../resources/images/spring-setting2.png)
+![프로젝트 구조](./../../resources/images/spring-setting2.png)
 
 
 > 코드 작성
