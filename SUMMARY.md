@@ -12,5 +12,7 @@
   * [Spring Web MVC](weeks/week1/week1-edu5.md)
 * [2. REST](weeks/week2/week2-main.md)
   * [REST API](weeks/week2/week2-edu1.md)
+  * [URI & MIME type](weeks/week2/week2-edu2.md)
+  * [Collection Pattern](weeks/week2/week2-edu3.md)
 
 
