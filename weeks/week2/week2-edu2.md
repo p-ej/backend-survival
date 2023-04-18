@@ -3,6 +3,7 @@
 ### URI
 <!-- ![URI](./../../resources/images/URI.png) -->
 <img src="./../../resources/images/URI.png" width="200" height="400"/>
+   
 - 특정한 리소스를 식별하는 통합 자원 식별자의 의미를 가진다. 
 - 또 리소스를 표현하기 위해 2가지로 나눌 수 있다.
 - 통합이라는 의미는 URI안에 서브셋인 URL과 URN이 존재해서 그런것 같다. 
