@@ -8,12 +8,12 @@
 - 인자에는 URL PATH와 HTTP 메소드를 전달해주면 된다.
 - 클래스와 메서드 수준에서 사용가능
 
-'''java
+```java
 @RestController
 @RequestMapping("/posts")
 public class PostController {
 }
-'''
+```
 
 #### Get, Post, Patch, DeleteMapping은 무엇일까 ?
 - RequestMapping이 클래스와 메서드 둘 다 사용 가능하다면, 해당 것들은 메소드 수준에서만 사용이 가능하다고 한다.
@@ -21,36 +21,36 @@ public class PostController {
     - 여기 안에도 RequestMapping이 들어있네 ..?
     - 확실히 어노테이션 별로 GET, POST를 구분해 놓으면 가독성에 좋을것도 같다. 또 PATH만 적으면되니...
 
-'''java
+```java
 @PostMapping
 메서드 {}
 
 @PatchMapping("/{id}")
 메서드 {}
-'''
+```
 
 #### PathVariable
 - URL에 파라미터로 들어오는 값들을 위한 것.
 - PATH에 {} 중괄호로 된 변수를 가져올 수 있다. 
 - "localhost/users/{id}"
 
-''' java
+``` java
 @DeleteMapping("/{id}")
 public String delete(@PathVariable("id") String id) {
     return "게시물 삭제: " + id;
 }
-'''
+```
 
 #### RequestBody
 - HTTP 메세지에서 Body에 담기는 데이터를 받을 수 있는 어노테이션이다. 
 
-'''java
+```java
 @PostMapping
 @ResponseStatus(HttpStatus.CREATED)
 public String create(@RequestBody String body) {
     return "게시물 생성: " + body;
 }
-'''
+```
 
 
 #### ExceptionHandler
@@ -59,7 +59,7 @@ public String create(@RequestBody String body) {
 - value라고 어떤 예외를 처리할 것인지 설정해 줄 수 있는데, 설정하지 않으면 모든 예외를 잡는다고 한다.
 > @ControllerAdvice를 사용해서 처리하는 방법도 있던데 알아봐야겠다.
 
-'''java
+```java
 @GetMapping("/{id}")
 public String detail(@PathVariable String id) {
     if (id.equals("404")) {
@@ -73,13 +73,13 @@ public String detail(@PathVariable String id) {
 public String postNotFound() {
     return "게시물을 찾을 수 없다.\n";
 }
-'''
+```
 
 
 
 #### ResponseStatus
 - 서버에서 Response를 할 때 HTTP 상태 코드를 설정할 수 있다.
-'''java
+```java
 @GetMapping("/{id}")
 @ResponseStatus(HttpStatus.NOT_FOUND) // 예시
 public String detail(@PathVariable String id) {
@@ -88,7 +88,7 @@ public String detail(@PathVariable String id) {
     }
     return "게시물 상세: " + id + "\n";
     }
-'''
+```
 
 ## 학습 키워드
 - @RequestMapping
