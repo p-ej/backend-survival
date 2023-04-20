@@ -39,6 +39,8 @@
 - comments/:id?sub_comments=:id
 - 이렇게 디렉터리 형식으로 구성이 가능하다. 
 
+#### [어려움]
+> **디렉터리 구성이 좀 어려운 것 같다. 각 게시판 좋아요 수 ?**
 
 **학습 키워드**
 - [웹 API 디자인 모범 사례](https://learn.microsoft.com/ko-kr/azure/architecture/best-practices/api-design#organize-the-api-design-around-resources)
