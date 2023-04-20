@@ -14,5 +14,6 @@
   * [REST API](weeks/week2/week2-edu1.md)
   * [URI & MIME type](weeks/week2/week2-edu2.md)
   * [Collection Pattern](weeks/week2/week2-edu3.md)
+  * [Collection Pattern 적용](weeks/week2/week2-edu4.md)
 
 
