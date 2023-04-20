@@ -90,6 +90,13 @@ public String detail(@PathVariable String id) {
     }
 ```
 
+
+#### [중간]
+> - 코드로 구현하고 코드로 이해하는건 뭔가 더 편하다 
+> - 개념적으로 헷갈렸던 부분들도 뭔가 코드로 구성하다보면 이해해될때도 많다.
+> - 어노테이션이 많아서 그렇지 계속 하나씩 뜯어봐야겠다.
+
+
 ## 학습 키워드
 - @RequestMapping
     - @GetMapping

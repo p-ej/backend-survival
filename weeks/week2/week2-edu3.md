@@ -41,6 +41,8 @@
 
 #### [어려움]
 > **디렉터리 구성이 좀 어려운 것 같다. 각 게시판 좋아요 수 ?**
+> **URL에 쿼리 파라미터나 PATH 변수로 리소스 디렉터리를 구성하지 않으면 Request Body에다가 나머지 정보를 입력해서 요청받게 해도 되는것인가 ?**
+> **주문하기 같은 경우 /orders가 될텐데 /orders?user_id=:value 음...**
 
 **학습 키워드**
 - [웹 API 디자인 모범 사례](https://learn.microsoft.com/ko-kr/azure/architecture/best-practices/api-design#organize-the-api-design-around-resources)
