@@ -6,20 +6,19 @@
 - 패턴 적용을 한 의미가 그룹화가 안된 리소스를 표현하기에는 번거로우니 그룹화를 시키려 복수형을 써서 이후 연관되는 알맞은 리소스를 표현하자? 이말인 것 같다.
 
 #### 패턴 미적용시
-> - /1-user
-> - /2-user
-> - /3-user
-> - POST /users/new 
+- `/1-user`
+- `/2-user`
+- `/3-user`
+- `POST /users/new`
 
 #### 패턴 적용시
-- users
-- users/{:id}
-- users?user_id={:value}
-- 뭔가 상당히 깔끔하고 URL 하나로 이해가 가는 것 같다. 
-- GET users/:id
-- DELETE users/:id (삭제)
-- POST /users
-> 오 신기하다
+- `users`
+- `users/{:id}`
+- `users?user_id={:value}`
+- `GET users/:id`
+- `DELETE users/:id (삭제)`
+- `POST /users`
+> 뭔가 상당히 깔끔하고 URL 하나로 이해가 가는 것 같다
 
 ### 다시 본론
 - 이렇게 그룹화를 시킬 리소스들을 하나의 URI로 표현한다고 한다. 그리고 일반적으로 복수형을 사용한다.
@@ -33,10 +32,10 @@
 ### 디렉터리 구성
 - 게시글에 댓글이 달리는 상태 (실제 우리 회사에서도 URL을 이런 디렉터리 형태로 구성하고 있다. 난 URL 리소스 이름을 정하느라 몇시간을 고민했다.)
 - 이런 형태면 조금 복잡할 것 같다.
-  - boards/:id/comments/:id/sub_comments/:id
-  - boards/:id/comments/:id/sub_comments
+  - `boards/:id/comments/:id/sub_comments/:id`
+  - `boards/:id/comments/:id/sub_comments`
   - 안에 로직과 쿼리짜기에 .. 지금도 어렵다.
-- comments/:id?sub_comments=:id
+- `comments/:id?sub_comments=:id`
 - 이렇게 디렉터리 형식으로 구성이 가능하다. 
 
 #### [어려움]
