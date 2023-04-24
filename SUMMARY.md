@@ -16,5 +16,7 @@
   * [Collection Pattern](weeks/week2/week2-edu3.md)
   * [Collection Pattern 적용](weeks/week2/week2-edu4.md)
   * [Spring Web MVC로 구현](weeks/week2/week2-edu5.md)
+* [3. DTO & JSON & CORS](weeks/week3/week3-main.md)
+  * [DTO](weeks/week3/week3-edu1.md)
 
 
