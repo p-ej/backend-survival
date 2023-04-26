@@ -18,5 +18,6 @@
   * [Spring Web MVC로 구현](weeks/week2/week2-edu5.md)
 * [3. DTO & JSON & CORS](weeks/week3/week3-main.md)
   * [DTO](weeks/week3/week3-edu1.md)
+  * [직렬화(Serialization)](weeks/week3/week3-edu2.md)
 
 
