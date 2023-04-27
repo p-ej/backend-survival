@@ -20,5 +20,6 @@
   * [DTO](weeks/week3/week3-edu1.md)
   * [직렬화(Serialization)](weeks/week3/week3-edu2.md)
   * [Jackson ObjectMapper](weeks/week3/week3-edu3.md)
+  * [CORS](weeks/week3/week3-edu4.md)
 
 
