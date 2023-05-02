@@ -21,5 +21,9 @@
   * [직렬화(Serialization)](weeks/week3/week3-edu2.md)
   * [Jackson ObjectMapper](weeks/week3/week3-edu3.md)
   * [CORS](weeks/week3/week3-edu4.md)
+* [4. Layered Architecture](weeks/week4/week4-main.md)
+  * [Layered Architecture](weeks/week4/week4-edu1.md)
+  * [Data Access](weeks/week4/week4-edu2.md)
+  * [Domain Model](weeks/week4/week4-edu3.md)
 
 
