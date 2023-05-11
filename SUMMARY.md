@@ -25,7 +25,7 @@
   * [Layered Architecture](weeks/week4/week4-edu1.md)
   * [Data Access](weeks/week4/week4-edu2.md)
   * [Domain Model](weeks/week4/week4-edu3.md)
-* [5. DI & Spring Test](weeks/week4/week4-main.md)
+* [5. DI & Spring Test](weeks/week5/week5-main.md)
   * [Dependency Injection](weeks/week5/week5-edu1.md)
   * [Unit Test](weeks/week5/week5-edu2.md)
   * [Spring Test](weeks/week5/week5-edu3.md)
