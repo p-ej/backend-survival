@@ -292,11 +292,11 @@ DI를 하면 의존한다고 안보는건가 ?
 레이어 나누는게 힘들면안됨
 
 
-학습 키워드
-	•	Spring AOP(Aspect Oriented Programming)
-	•	Dependency Injection
-	•	싱글턴 패턴
-	•	싱글턴이 생겨난 이유, 어떻게 발견 ?
-	•	IoC(Inversion of Control)
-	•	Spring Bean
-	•	BeanFactory
+## 학습 키워드
+• Spring AOP(Aspect Oriented Programming)
+• Dependency Injection
+• 싱글턴 패턴
+• 싱글턴이 생겨난 이유, 어떻게 발견 ?
+• IoC(Inversion of Control)
+• Spring Bean
+• BeanFactory
