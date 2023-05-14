@@ -327,19 +327,20 @@ this.postDAO = factory.getPostDAO(“map, hash, list 등”);
    
 - 팩토리안에 postRepository를 postDao로도 가능하다. (hash, map, list , … ) 이렇게 번갈아가며 사용가능 
 - 이런거를 플러그라고한다. 
-
+   
 
 ![그림](./../../resources/images/di.png)
+   
 이렇게 인터페이스를 만든다.
 도메인 옵젝 : 서비스에 해당 
-	⁃	서비스 객체가 다오 인터페이스를 보는데 그거를 구현한 무언가 ? 
-	⁃	그 무언가를 도메인 옵젝은 모른다는 것이다. 
+- 서비스 객체가 다오 인터페이스를 보는데 그거를 구현한 무언가 ? 
+- 그 무언가를 도메인 옵젝은 모른다는 것이다. 
 
 ## 학습 키워드
-• Spring AOP(Aspect Oriented Programming)
-• Dependency Injection
-• 싱글턴 패턴
-• 싱글턴이 생겨난 이유, 어떻게 발견 ?
-• IoC(Inversion of Control)
-• Spring Bean
-• BeanFactory
+- Spring AOP(Aspect Oriented Programming)
+- Dependency Injection
+- 싱글턴 패턴
+- 싱글턴이 생겨난 이유, 어떻게 발견 ?
+- IoC(Inversion of Control)
+- Spring Bean
+- BeanFactory
