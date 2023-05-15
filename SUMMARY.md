@@ -30,7 +30,7 @@
   * [Unit Test](weeks/week5/week5-edu2.md)
   * [Spring Test](weeks/week5/week5-edu3.md)
   * [TDD](weeks/week5/week5-edu4.md)
-* [5. Database](weeks/week6/week6-main.md)
+* [6. Database](weeks/week6/week6-main.md)
   * [Database](weeks/week6/week6-edu1.md)
   * [Relational Model](weeks/week6/week6-edu2.md)
   * [Relational Algerbra](weeks/week6/week6-edu3.md)
