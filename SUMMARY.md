@@ -35,5 +35,5 @@
   * [Relational Model](weeks/week6/week6-edu2.md)
   * [Relational Algerbra](weeks/week6/week6-edu3.md)
   * [Entity-Relationship Model](weeks/week6/week6-edu4.md)
-  * [JDBC](weeks/week6/week6-edu4.md)
-  * [JdbcTemplate](weeks/week6/week6-edu4.md)
+  * [JDBC](weeks/week6/week6-edu5.md)
+  * [JdbcTemplate](weeks/week6/week6-edu6.md)
