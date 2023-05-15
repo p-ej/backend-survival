@@ -1,6 +1,11 @@
 # Relational Model
 
 ![relational-model](./../../resources/images/relational-model.png)
+
+### Relational Model
+- RM은 데이터를 테이블(관계)로 구성 (테이블은 특정 엔터티와 속성을 나타냄)
+- 구성 : 관계(테이블), 기본 키, 외래 키, 관계형 작업(조인 등)
+
    
 ### Attribute (속성)
 - 엔터티에 대한 특정 특성 혹은 정보를 나타낸다.
