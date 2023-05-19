@@ -39,3 +39,5 @@
 * GitHub SSH를 통한 로컬 clone
 * Gitbook과 Github 연동 및 사용법
 * PR 트레이닝을 통한 다른 명령어 숙지 및 PR법
+
+[![Hits](https://hits.sh/p-ej.gitbook.io/devroad-backend/megatera-backend/introduction.svg)](https://hits.sh/p-ej.gitbook.io/devroad-backend/megatera-backend/introduction/)

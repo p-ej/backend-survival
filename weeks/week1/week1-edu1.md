@@ -176,3 +176,6 @@ Stateless의 반대인 Stateful은 고객의 요청을 저장하는 반면, Stat
     * 멱등성
   * HTTP 응답 상태 코드(HTTP response status code)
     * 리다이렉션
+
+
+[![Hits](https://hits.sh/p-ej.gitbook.io/devroad-backend/megatera-backend/introduction.svg)](https://hits.sh/p-ej.gitbook.io/devroad-backend/megatera-backend/introduction/)

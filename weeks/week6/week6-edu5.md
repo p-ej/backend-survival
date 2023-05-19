@@ -39,3 +39,7 @@
 
 ## 학습 키워드
 - JDBC(Java Database Connectivity)
+
+
+
+[![Hits](https://hits.sh/p-ej.gitbook.io/devroad-backend/megatera-backend/introduction.svg)](https://hits.sh/p-ej.gitbook.io/devroad-backend/megatera-backend/introduction/)

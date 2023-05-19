@@ -102,3 +102,7 @@ public WebMvcConfigurer webMvcConfigurer() {
   - JSONP
   - `Access-Control-Allow-Origin`
 - `@CrossOrigin`
+
+
+
+[![Hits](https://hits.sh/p-ej.gitbook.io/devroad-backend/megatera-backend/introduction.svg)](https://hits.sh/p-ej.gitbook.io/devroad-backend/megatera-backend/introduction/)

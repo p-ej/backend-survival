@@ -97,3 +97,7 @@ public record Animal(String name, int age) {
 - Java의 record
 - DAO
 - ORM
+
+
+
+[![Hits](https://hits.sh/p-ej.gitbook.io/devroad-backend/megatera-backend/introduction.svg)](https://hits.sh/p-ej.gitbook.io/devroad-backend/megatera-backend/introduction/)

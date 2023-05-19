@@ -92,3 +92,7 @@ user 테이블의 기본 키인 id는 관계 설정을 위해 board(post) 테이
     - 속성
     - 튜플
     - 관계
+
+
+
+[![Hits](https://hits.sh/p-ej.gitbook.io/devroad-backend/megatera-backend/introduction.svg)](https://hits.sh/p-ej.gitbook.io/devroad-backend/megatera-backend/introduction/)

@@ -69,3 +69,7 @@ SELETE * FROM user A JOIN post B ON A.id = B.user_id
 
 > - 나는 보통 LEFT JOIN을 사용한다. (혹은 INNER JOIN) 왜냐면 RIGHT JOIN은 Typeorm에선 지원하지 않기 때문이다. (사실 잘 사용하지도 않는다.)
 > - 결국 Relation에서 원하는 데이터를 가져오려면 어떤 기준으로 가져올 것인지 생각해야한다. 
+
+
+
+[![Hits](https://hits.sh/p-ej.gitbook.io/devroad-backend/megatera-backend/introduction.svg)](https://hits.sh/p-ej.gitbook.io/devroad-backend/megatera-backend/introduction/)

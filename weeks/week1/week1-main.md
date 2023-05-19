@@ -12,3 +12,6 @@
 - HTTP 가 어떻게 구성되어있는지 이해하고, 직접 웹 서버를 구현할 수 있다.
 - "아 들어봤다" 보다 원리와 개념을 이해하면서 학습해 나가자.
 - 추후 Rest를 학습하기 위해선 본체인 HTTP는 필수적으로 알아야하는 사항이다. 
+
+
+[![Hits](https://hits.sh/p-ej.gitbook.io/devroad-backend/megatera-backend/introduction.svg)](https://hits.sh/p-ej.gitbook.io/devroad-backend/megatera-backend/introduction/)

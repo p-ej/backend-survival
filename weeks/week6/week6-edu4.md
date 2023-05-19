@@ -48,3 +48,7 @@
 - ERD(Entity-Relationship Model) 이란
 - Entity
 - 데이터베이스 정규화
+
+
+
+[![Hits](https://hits.sh/p-ej.gitbook.io/devroad-backend/megatera-backend/introduction.svg)](https://hits.sh/p-ej.gitbook.io/devroad-backend/megatera-backend/introduction/)
