@@ -37,3 +37,5 @@
   * [Entity-Relationship Model](weeks/week6/week6-edu4.md)
   * [JDBC](weeks/week6/week6-edu5.md)
   * [JdbcTemplate](weeks/week6/week6-edu6.md)
+
+[![Hits](https://hits.sh/p-ej.gitbook.io/devroad-backend/megatera-backend.svg)](https://hits.sh/p-ej.gitbook.io/devroad-backend/megatera-backend/)
