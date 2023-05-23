@@ -38,4 +38,10 @@
   * [Entity-Relationship Model](weeks/week6/week6-edu4.md)
   * [JDBC](weeks/week6/week6-edu5.md)
   * [JdbcTemplate](weeks/week6/week6-edu6.md)
+* [7. JPA](weeks/week7/week7-main.md)
+  * [ORM](weeks/week7/week7-edu1.md)
+  * [Hibernate](weeks/week7/week7-edu2.md)
+  * [Embeddable](weeks/week7/week7-edu3.md)
+  * [Relationship Mapping](weeks/week7/week7-edu4.md)
+  * [Spring Data JPA](weeks/week7/week7-edu5.md)
 
