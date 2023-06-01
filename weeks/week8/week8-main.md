@@ -3,6 +3,9 @@
 ## 학습 목록
 1. DDD
 2. Strategic Design
+3. Entity, Value Object
+4. Aggregate
+5. Repository
 
 
 ## 학습 목표
