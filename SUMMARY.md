@@ -47,7 +47,7 @@
 * [8. 도메인 주도 설계](weeks/week8/week8-main.md)
   * [DDD](weeks/week8/week8-edu1.md)
   * [Strategic Design](weeks/week8/week8-edu2.md)
-  * [Embeddable](weeks/week7/week7-edu3.md)
-  * [Relationship Mapping](weeks/week7/week7-edu4.md)
-  * [Spring Data JPA](weeks/week7/week7-edu5.md)
+  * [Embeddable](weeks/week8/week8-edu3.md)
+  * [Relationship Mapping](weeks/week8/week8-edu4.md)
+  * [Spring Data JPA](weeks/week8/week8-edu5.md)
 
