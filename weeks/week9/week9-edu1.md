@@ -297,3 +297,12 @@ public class MongoOrderRepository implements OrderRepository {
 - 'OrderService'는 'OrderRepository' 인터페이스에 의존한다. 
 - 이를 통해 `OrderService`는 코드를 수정하지 않고도 `JdbcOrderRepository` 또는 `MongoOrderRepository`와 같은 `OrderRepository`의 모든 구현과 함께 작동할 수 있다. 
 - 구현 선택을 외부에서 구성하여 유연성을 높이고, 테스트를 쉽게 할 수 있다.
+
+
+## 학습 키워드
+- SOLID (객체 지향 설계)
+  - SRP (Single Responsibility Principle, 단일 책임 원칙)
+  - OCP (Open-Closed Principle, 개방-폐쇄 원칙)
+  - LSP (Liskov Substitution Principle, 리스코프 치환 원칙)
+  - ISP (Interface Segregation Principle, 인터페이스 분리 원칙)
+  - DIP (Dependency Inversion Principle, 의존관계 역전 원칙)
