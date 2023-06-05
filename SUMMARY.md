@@ -50,4 +50,7 @@
   * [Entity, Value Object](weeks/week8/week8-edu3.md)
   * [Aggregate](weeks/week8/week8-edu4.md)
   * [Repository](weeks/week8/week8-edu5.md)
+* [9. Hexagonal Architecture](weeks/week9/week9-main.md)
+  * [SOLID](weeks/week9/week9-edu1.md)
+  * [Hexagonal Architecture](weeks/week9/week9-edu2.md)
 
