@@ -53,4 +53,5 @@
 * [9. Hexagonal Architecture](weeks/week9/week9-main.md)
   * [SOLID](weeks/week9/week9-edu1.md)
   * [Hexagonal Architecture](weeks/week9/week9-edu2.md)
+  * [“우아한객체지향” 세미나](weeks/week9/week9-edu-b.md)
 
