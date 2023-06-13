@@ -54,4 +54,6 @@
   * [SOLID](weeks/week9/week9-edu1.md)
   * [Hexagonal Architecture](weeks/week9/week9-edu2.md)
   * [“우아한객체지향” 세미나](weeks/week9/week9-edu-b.md)
-
+* [Spring Security](weeks/week10/week10-main.md)
+  * [애플리케이션 수준의 보안](weeks/week10/week10-edu1.md)
+  * [](weeks/week10/week10-edu2.md)
