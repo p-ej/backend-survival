@@ -60,4 +60,4 @@
 * [11. File Upload](weeks/week11/week11-main.md)
   * [Multipart FormData](weeks/week11/week11-edu1.md)
   * [Separation of Concerns](weeks/week11/week11-edu2.md)
-  * [Cloudinary](weeks/week11/week11-edu2.md)
+  * [Cloudinary](weeks/week11/week11-edu3.md)
