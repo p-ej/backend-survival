@@ -61,3 +61,6 @@
   * [Multipart FormData](weeks/week11/week11-edu1.md)
   * [Separation of Concerns](weeks/week11/week11-edu2.md)
   * [Cloudinary](weeks/week11/week11-edu3.md)
+* [12. CQRS](weeks/week12/week12-main.md)
+  * [CQRS](weeks/week12/week12-edu1.md)
+  * [Redis](weeks/week12/week12-edu2.md)
